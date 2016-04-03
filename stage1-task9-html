@@ -1,0 +1,476 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link href="stage 1,task 9 css.css" rel="stylesheet" type="text/css" />
+
+<style>
+div#top{ height:56px;min-width:800px;margin:-10px -10px 0px -10px; background-image:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-0_01.png)}
+img#icon{ margin-top:10px; margin-left:50px}
+img#input{ float:right;margin-top:14px; margin-right:36px;}
+img#person{ float:right; margin-top:20px; margin-right:2px}
+p#login{ float:right;margin-top:22px; margin-right:93px;font-family:"黑体"; font-size:12px; color:#FFF}
+
+div#all{ float:left;width:1280px; min-width:1280px; height:1000px; min-height:1270px; margin-left:-10px;}
+
+div#list{float:left; margin-left:0px; margin-bottom:0px;width:260px; min-height:1214px; min-width:260px;background-image:url(stage%201%EF%BC%8Ctask%209/00.png)}
+
+div#left1{height:75px;}
+img#circle{float:left; margin-top:21px; margin-left:45px;}
+p#name{ float:left; margin-left:18px; margin-top:38px;font-family:"黑体"; font-size:16px; color:#FFF}
+
+div#left2{margin:0 0 22px 0;float:right; width:260px;}
+div#collection{margin-left:62px; margin-top:-30px;width:28px; height:30px; text-align:center}
+p#collection1{margin-top:0px; margin-left:0px;padding:0px;margin: 0;font-family:"黑体"; font-size:16px; color:#666}
+p#collection2{margin-top:0px; margin-left:0px;padding:0px;margin: 0;font-family:"黑体"; font-size:14px; color:#666}
+div#line{margin-left:117px; margin-right:119px; margin-top:22px;}
+div#fans{float:right;margin-top:22px; margin-right:86px;}
+p#fans1{margin-top:0px; margin-left:0px;padding:0px;margin: 0;font-family:"黑体"; font-size:16px; color:#666}
+p#fans2{margin-top:0px; margin-left:0px;padding:0px;margin: 0;font-family:"黑体"; font-size:16px; color:#666}
+
+div#left3{float:right; width:260px;margin-bottom:10px;background-color:#383D4E}
+ul#ul1{ list-style:none; margin:1.5em 1.5em 1.5em 10px; font-family:"黑体"; font-size:12px; color:#FFF;background:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-5_01.gif) no-repeat 20px top;}
+li{margin-left:0px;margin-top: 1.5em}
+li#li11{ background:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-5_05.gif) no-repeat 0px top;}
+ul#ul2{ list-style:none; margin-left:-18px;margin-top: 1.5em; background: url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-5_11.gif) no-repeat 18px top;}
+li#li21{margin-left:0px;background:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-5_15.gif) no-repeat 0px top;}
+li#li22{margin-left:0px; background:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-5_18.gif) no-repeat 0px top;}
+.else{ list-style:none; margin-left:70px; font-family:"黑体"; font-size:12px; color:#FFF; margin: 1.5em}
+
+div#left4{ line-height:48px;}
+
+div#position{ float:right;margin-right:-10px; width:1020px; height:32px; background-color:#FFF; font-family:"黑体"; font-size:12px; color:#666;}
+div#document{ float:right; margin-right:810px; margin-top:0px; width:36px; height:32px; font-family:"黑体"; font-size:12px; color:#2189BF;}
+
+
+div#cotent{ float:right;margin-right:-30px; min-width:1050px; width:1050px;height:1182px; background-color:#EEEDED; font-family:"黑体";  color:#666;}
+
+div#right1{ float:right;width:832px; height:76px; margin-top:20px; margin-right:70px; padding:0px 30px 10px 30px;background-color:#FFF; font-size:12px; border:1px #CCCCCC solid;}
+.research{ width:178px; height:86px; background-color:#093}
+form#research1{ float:left; margin-top:0px; width:800px; height:56px; line-height:0.2em;}
+select{font-family:"黑体"; font-size:12px;}
+.research1{ width:71px; height:26px;}
+.research2{ width:120px; height:26px;}
+input#research{width:51px; height:26px;border:0;background-color:#2189BF; font-family:"黑体"; font-size:12px; color:#FFF}
+
+div#right2{ float:right;width:892px; height:65px; margin-right:70px; margin-top:9px;}
+img#slip{ float:left; }
+.right2{ display:inline-block;margin-left:-4px;width:112px; height:65px; background-color:#FFF; border:#CCC solid 1px; color:#000; text-align:center}
+div#right20{ float:left;margin-left:0px; width:31px; height:65px; border:1px #ccc solid; background-image:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-6_01.gif)}
+div#right21{ margin-left:2px; background-image:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-6_03.gif)}
+div#right22{ margin-left:-2px; background-image:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-6_05.gif)}
+div#right23{ margin-left:-2px; background-image:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-6_07.gif)}
+div#right24{ margin-left:-2px; background-image:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-6_09.gif)}
+div#right25{ margin-left:-2px; background-image:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-6_11.gif)}
+div#right26{ margin-left:-2px; background-image:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-6_13.gif)}
+div#right27{ margin-left:-2px; width:131px; background-image:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-6_17.gif)}
+
+div#right3{ float:right;width:892px; height:88px; margin-right:70px; margin-top:9px; margin-top:20px; line-height:0;}
+p#right3{font-family:"黑体"; font-size:12px}
+img#right3{ border:#CCC solid 1px; color:#000;}
+
+div#right4{float:left;width:531px; height:356px; margin-left:88px; margin-top:20px; background-image:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/8.png); border:#CCC solid 1px; color:#000;}
+p#righttop{ font-size:12px; color:#999}
+div#right4bg{ margin-left:20px; margin-top:24px;width:491px; height:279px; background-image:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-9.png);font-size:12px; color:#333}
+.right4bg{ float:left;width:64px; padding-left:25px;height:36px;line-height:3em}
+img#cols{float:right; margin-right:50px;margin-top:20px;}
+img#rows{ float:right; margin-right:50px;}
+table#table{ float:right; margin-right:0px; margin-top:20px;width:403px;height:186px;border:#F3F3F3}
+
+div#right5{float:left;width:351px; height:356px; margin-left:4px; margin-top:20px; background-image:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-11.png); border:#CCC solid 1px; color:#000;}
+div#right5p{font-size:12px; color:#999; margin-left:70px;line-height:1em}
+div#right5p2{font-size:12px; color:#333; margin-left:70px; line-height:1em}
+table#price{ margin-top:10px; margin-left:70px; font-size:12px;}
+.1{font-family:"黑体"; color:#999}
+.2{font-family:"黑体"; color:#333}
+.cols2{float:right;}
+img#hr{ margin-top:110px}
+div#radio{ margin-top:126px; margin-left:70px;font-size:12px; color:#999;}
+input#button{ width:51px; height:26px;border:0;background-color:#2189BF; font-family:"黑体"; font-size:12px; color:#FFF}
+
+div#right6{float:left;width:351px; height:356px; margin-left:88px; margin-top:20px; background-image:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-13.png); border:#CCC solid 1px; color:#000;}
+form#date{float:left; margin-top:0px; margin-left:20px; width:311px; height:23px; line-height:0.2em;}
+select#date{ width:66px;}
+select#date2{ width:74px;}
+table#date{ float:right;margin-top:10px; margin-right:20px; width:311px;font-size:12px;}
+img#cols2{ margin-left:20px}
+table#datetable{ float:right; margin-right:20px;width:311px; font-family:"黑体"; font-size:12px; color:#333; line-height:0; text-align:center}
+td#red{ color:#C00}
+
+div#right7{float:left;width:531px; height:356px; margin-left:4px; margin-top:20px; background-image:url(stage%201%EF%BC%8Ctask%209/%E5%9B%BE%E5%83%8F/%E6%9C%AA%E6%A0%87%E9%A2%98-15.png); border:#CCC solid 1px; color:#000;}
+img#cars{ margin-left:40px; margin-top:18px;}
+</style>
+
+</head>
+
+<body>
+
+<div id="top">
+<img id="icon" src="stage 1，task 9/未标题-1.png"  />
+<p id="login">登录</p>
+<img id="person" src="stage 1，task 9/图像/未标题-2_07.png" />
+<img id="input" src="stage 1，task 9/图像/未标题-2_01.png" />
+</div>
+
+
+<div id="all">
+
+
+<div id="list">
+
+<div id="left1">
+<img  id="circle" src="stage 1，task 9/未标题-3.png" />
+<p id="name">ABC123</p>
+</div>
+
+<div id="left2">
+
+<div id="fans">
+<p id="fans1">粉丝</p>
+<p id="fans2">313</p>
+</div>
+
+<div id="line">
+<img id="line" src="stage 1，task 9/4.png" />
+</div>
+
+<div id="collection">
+<p id="collection1" >110</p>
+<p id="collection2">收藏</p>
+</div>
+
+
+
+
+</div>
+<div id="left3">
+<ul id="ul1">个人报表
+  <li id="li11"> &nbsp;&nbsp;&nbsp;文件一</li>
+<ul id="ul2">文件二
+<li id="li21">&nbsp;&nbsp;&nbsp;文档一</li>
+<li id="li22">&nbsp;&nbsp;&nbsp;文档二</li>
+</ul>
+</ul>
+</div>
+
+<div id="left4">
+<ul class="else" id="2">个人收藏</ul>
+<ul class="else" id="3">我的分享</ul>
+<ul class="else" id="4">图库</ul>
+<ul class="else" id="5">成长记录</ul>
+<ul class="else" id="6">账户信息</ul>
+</div>
+</div>
+
+
+<div id="position">
+<br/>
+&nbsp;&nbsp;&nbsp;C站  / 个人报表 / 文件一／
+<div id="document">文档一</div>
+<br/>
+</div>
+
+<div id="cotent"> 
+<div id="right1">
+<form id="research1">
+  <p>查询项&nbsp;&nbsp;
+    <select class="research1">
+      <option value="第一项" selected="selected">第一项</option>
+    </select>
+    
+  &nbsp;&nbsp;&nbsp;买方&nbsp;&nbsp;
+  <select class="research2">
+    <option value="小A" selected="selected">小A</option>
+  </select>
+    
+  &nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;
+  <select class="research2">
+    <option value="2016-04-01" selected="selected">2016-04-01</option>
+  </select>
+    
+  &nbsp;总耗时&nbsp;
+  <select class="research1">
+    <option value="8天" selected="selected">8天</option>
+  </select>
+  </p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;卖方
+  &nbsp;
+  <select class="research2">
+    <option value="小C" selected="selected">小C</option>
+  </select>
+  
+  &nbsp;&nbsp;&nbsp;人数&nbsp;&nbsp;
+ <select class="research1">
+    <option value="10人" selected="selected">10人</option>
+  </select>
+  
+  &nbsp;成交项&nbsp;
+  <select class="research2">
+    <option value="10项" selected="selected">10项</option>
+  </select>
+  &nbsp;&nbsp;
+<input id="research" type="button" value="搜索"/>
+  
+</form>
+</div>
+
+
+<div id="right2">
+  <div id="right20">
+</div>
+<div class="right2" id="right21"></div>
+<div class="right2" id="right22"></div>
+<div class="right2" id="right23"></div>
+<div class="right2" id="right24"></div>
+<div class="right2" id="right25"></div>
+<div class="right2" id="right26"></div>
+<div class="right2" id="right27"></div>
+</div>
+
+<div id="right3">
+<p id="right3">2016年4月份统计</p>
+<img id="right3" src="stage 1，task 9/图像/图像/未标题-7_01.png" />&nbsp;&nbsp;
+<img id="right3" src="stage 1，task 9/图像/图像/未标题-7_03.png" />&nbsp;&nbsp;
+<img id="right3" src="stage 1，task 9/图像/图像/未标题-7_05.png" />&nbsp;&nbsp;
+<img id="right3" src="stage 1，task 9/图像/图像/未标题-7_07.png" />
+</div>
+
+<div id="right4">
+  <p id="righttop">
+  &nbsp;&nbsp;第一组项目</p>
+  <div id="right4bg">
+  <div class="right4bg">项目一</div>
+  <div class="right4bg">项目一</div>
+  <div class="right4bg">项目一</div>
+  <div class="right4bg">项目一</div>
+  <div class="right4bg">项目一</div>
+  
+  <img  id="cols" src="stage 1，task 9/图像/10-2.png" />
+  <table id="table"  border="1" frame=void cellspacing=0px align=right>
+  <tr>
+  <td width="100">购买材料一</td>
+  <td width="100">购买材料一</td>
+  <td width="100">购买材料一</td>
+  <td width="85">购买材料一</td>
+  </tr>
+   <tr>
+  <td>购买材料一</td>
+  <td>购买材料一</td>
+  <td>购买材料一</td>
+  <td>购买材料一</td>
+  </tr>
+   <tr>
+  <td>购买材料一</td>
+  <td>购买材料一</td>
+  <td>购买材料一</td>
+  <td>购买材料一</td>
+  </tr>
+   <tr>
+  <td>购买材料一</td>
+  <td>购买材料一</td>
+  <td>购买材料一</td>
+  <td>购买材料一</td>
+  </tr>
+   <tr>
+  <td>购买材料一</td>
+  <td>购买材料一</td>
+  <td>购买材料一</td>
+  <td>购买材料一</td>
+  </tr>
+   <tr>
+  <td>购买材料一</td>
+  <td>购买材料一</td>
+  <td>购买材料一</td>
+  <td>购买材料一</td>
+  </tr>
+  </table>
+  
+  <img  id="rows" src="stage 1，task 9/图像/10-1.png" />
+  
+  </div>
+</div>
+
+
+<div id="right5">
+ <p id="righttop">
+  &nbsp;&nbsp;第一组项目</p>
+  <div id="right5p"><br/>
+    标题</div>
+     <div id="right5p2"><br/>
+    项目报表三</div>
+ <table id="price" frame="above">
+   <tr>
+  <td class="1">价格</td>
+  <td class="1">负责人</td>
+</tr>
+ <tr>
+  <td class="2">&yen;158</td>
+  <td class="2">小A</td>
+</tr>
+</table>
+
+<img  class="cols2" src="stage 1，task 9/图像/未标题-12.png" />
+
+<div id="right5p"><br />
+详细描述</div>
+
+ <div id="right5p2"><br/>该项目目前的负责人是……</div>
+ 
+ <img  class="cols2"  id="hr" src="stage 1，task 9/图像/未标题-12.png" />
+ 
+<div id="radio">
+<input type="radio" value="1"/>
+遵守保密协议&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input id="button" type="button" value="搜索" />
+</div>
+</div>
+
+<div id="right6">
+<p id="righttop">
+  &nbsp;&nbsp;第一组项目</p>
+ <form id="date">
+ <select id="date">
+  <option value="2016年" selected="selected">2016年</option>
+ </select>
+ <select id="date">
+  <option value="4月" selected="selected">4月</option>
+ </select>
+ <select id="date2">
+  <option value="标注日期" selected="selected">标注日期</option>
+ </select>
+ <select id="date2">
+  <option value="返回今天" selected="selected">返回今天</option>
+ </select>
+ </form>
+ 
+ <table id="date" frame="above">
+  
+ <tr>
+  <td class="2">一</td>
+  <td class="2">二</td>
+  <td class="2">三</td>
+  <td class="2">四</td>
+  <td class="2">五</td>
+  <td class="2">六</td>
+  <td class="2">日</td>
+</tr>
+</table>
+
+<img  id="cols2" src="stage 1，task 9/图像/未标题-14.png" />
+ 
+ 
+ <table id="datetable" height="210px">
+  
+ <tr>
+  <td width="32" class="2">&nbsp;</td>
+  <td width="32" class="2">&nbsp;</td>
+  <td width="32" class="2">&nbsp;</td>
+  <td width="40" class="2">&nbsp;</td>
+  <td width="47" class="2">1</td>
+  <td width="63" class="2" id="red">2</td>
+  <td width="33" class="2" id="red">3</td>
+</tr>
+ <tr>
+  <td class="2">&nbsp;</td>
+  <td class="2">&nbsp;</td>
+  <td class="2">&nbsp;</td>
+  <td class="2">&nbsp;</td>
+  <td class="2" id="red">愚人节</td>
+  <td class="2">廿五</td>
+  <td class="2">廿六</td>
+</tr>
+ <tr>
+  <td class="2">4</td>
+  <td class="2">5</td>
+  <td class="2">6</td>
+  <td class="2">7</td>
+  <td class="2">8</td>
+  <td class="2" id="red">9</td>
+  <td class="2" id="red">10</td>
+</tr>
+<tr>
+  <td class="2">廿七</td>
+  <td class="2" id="red">清明</td>
+  <td class="2">廿九</td>
+  <td class="2">三月</td>
+  <td class="2">初二</td>
+  <td class="2">初三</td>
+  <td class="2">初四</td>
+</tr>
+<tr>
+  <td class="2">11</td>
+  <td class="2">12</td>
+  <td class="2">13</td>
+  <td class="2">14</td>
+  <td class="2">15</td>
+  <td class="2" id="red">16</td>
+  <td class="2" id="red">17</td>
+</tr>
+<tr>
+  <td class="2">初五</td>
+  <td class="2">初六</td>
+  <td class="2"> 初七</td>
+  <td class="2">初八</td>
+  <td class="2">初九</td>
+  <td class="2">初十</td>
+  <td class="2">十一</td>
+</tr>
+<tr>
+  <td class="2">18</td>
+  <td class="2">19</td>
+  <td class="2">20</td>
+  <td class="2">21</td>
+  <td class="2">22</td>
+  <td class="2" id="red">23</td>
+  <td class="2" id="red">24</td>
+</tr>
+<tr>
+  <td class="2">十二</td>
+  <td class="2">十三</td>
+  <td class="2">十四</td>
+  <td class="2">十五</td>
+  <td class="2">十六</td>
+  <td class="2">十七</td>
+  <td class="2">十八</td>
+  </tr>
+<tr>
+  <td class="2">25</td>
+  <td class="2">26</td>
+  <td class="2">27</td>
+  <td class="2">28</td>
+  <td class="2">29</td>
+  <td class="2" id="red">30</td>
+  <td class="2">&nbsp;</td>
+</tr>
+<tr>
+  <td class="2">十九</td>
+  <td class="2">廿十</td>
+  <td class="2">廿一 </td>
+  <td class="2">廿二 </td>
+  <td class="2">廿三</td>
+  <td class="2">廿四</td>
+  <td class="2">&nbsp;</td>
+</tr>
+</table>
+ 
+</div>
+
+<div id="right7">
+<p id="righttop">
+  &nbsp;&nbsp;第一组项目</p>
+<img  id="cars" src="stage 1，task 9/图像/未标题16.png" />
+</div>
+
+</div>
+
+
+
+
+</div>
+
+
+</div>
+
+</body>
+</html>
